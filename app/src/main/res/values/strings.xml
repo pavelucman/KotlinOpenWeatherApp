@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+    <string name="no_city_by_that_name">No city by that name</string>
+</resources>
